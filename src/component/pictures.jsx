@@ -37,6 +37,7 @@ function Presents() {
           className="bg-blue-500 px-10 py-3 rounded-lg text-white mr-5"
         >
           Preview
+          
         </button>
         <button
           onClick={handleIncrement}
